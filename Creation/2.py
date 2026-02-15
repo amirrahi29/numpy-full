@@ -1,0 +1,7 @@
+# with default values create an array
+# np.zeros(shape) (3) fir 1d, (3,3) 2d
+
+import numpy as np
+zeroes_arr = np.zeros(3)
+
+print(zeroes_arr)
